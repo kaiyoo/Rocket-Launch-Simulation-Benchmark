@@ -94,3 +94,13 @@ This benchmark aims to provide a more realistic evaluation of LLM capabilities b
 - Safe decision-making  
 
 Together, these tasks offer a comprehensive assessment of **cognitive abilities relevant to AGI** in sequential environments.
+
+
+## Citation
+
+@misc{rocket_launch_simulation_benchmark,
+    author = {Hongsang Yoo},
+    title = {Rocket Launch Simulation Benchmark},
+    year = {2026},
+    howpublished = {\url{https://www.kaggle.com/benchmarks/kaiyoo88/rocket-launch-baseline?_gl=1*1dbkh4s*_ga*MTIzMTE4NzMyNC4xNzc1Nzg2MzE2*_ga_T7QHS60L4Q*czE3NzY2NTE2MDIkbzQkZzEkdDE3NzY2NTcxODckajU5JGwwJGgw}}
+}

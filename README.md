@@ -12,7 +12,7 @@ This project is a benchmark designed to evaluate the cognitive abilities of larg
 
 Below is a snapshot of benchmark results across different models and tasks:
 
-![Leaderboard](./benchmark_leaderboard.png)
+![Leaderboard](./images/benchmark_leaderboard.png)
 
 ---
 
@@ -20,7 +20,9 @@ Below is a snapshot of benchmark results across different models and tasks:
 
 This project presents a benchmark for evaluating large language models (LLMs) in a structured, state-based decision-making setting using a **Europa exploration mission scenario**.
 
-The benchmark simulates a full end-to-end pipeline:
+The benchmark evaluates model performance across **21 sequential steps organized into 7 mission phases**, covering the entire lifecycle of a space mission.
+
+The scenario simulates a full end-to-end pipeline:
 
 - Launching from Earth  
 - Traveling to Europa (a moon of Jupiter)  
@@ -29,9 +31,11 @@ The benchmark simulates a full end-to-end pipeline:
 - Generating hydrogen via electrolysis  
 - Refueling  
 - Collecting samples  
-- Returning to Earth  
+- Returning to Earth
 
 At each step, the model must select the most appropriate action based on the current state and constraints.
+
+![Pipeline](./images/notebook_running_log.png)
 
 ---
 

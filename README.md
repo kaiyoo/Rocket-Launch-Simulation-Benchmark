@@ -57,13 +57,13 @@ This benchmark is designed to evaluate **Executive Functions** in LLMs rather th
 
 The benchmark is composed of four complementary tasks:
 
-### 1. Planning: [notebook](./planning.ipynb)
+### 1. Planning: [[notebook]](./planning.ipynb)
 Evaluates long-horizon reasoning through multi-step action prediction.
 
-### 2. Working Memory: [notebook](./working_memory.ipynb)
+### 2. Working Memory: [[notebook]](./working_memory.ipynb)
 Tests the ability to use past context when parts of the current state are hidden.
 
-### 3. Flexibility: [notebook](./flexibility_stage_transition_weighted.ipynb)
+### 3. Flexibility: [[notebook]](./flexibility_stage_transition_weighted.ipynb)
 Measures adaptation across stage transitions without repeating outdated strategies.
 
 ### 4. Robustness

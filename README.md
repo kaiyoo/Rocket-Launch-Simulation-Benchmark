@@ -1,4 +1,4 @@
-# Measuring Progress Toward AGI - Cognitive Abilities
+# Rocket Launch Simulation Benchmark
 
 This project is a benchmark designed to evaluate the cognitive abilities of large language models (LLMs) in the **Executive Functions Track** of the Kaggle competition *Measuring Progress Toward AGI - Cognitive Abilities*, hosted by Google DeepMind.
 
@@ -57,13 +57,13 @@ This benchmark is designed to evaluate **Executive Functions** in LLMs rather th
 
 The benchmark is composed of four complementary tasks:
 
-### 1. Planning
+### 1. Planning: [notebook](./planning.ipynb)
 Evaluates long-horizon reasoning through multi-step action prediction.
 
-### 2. Working Memory
+### 2. Working Memory: [notebook](./working_memory.ipynb)
 Tests the ability to use past context when parts of the current state are hidden.
 
-### 3. Flexibility
+### 3. Flexibility: [notebook](./flexibility_stage_transition_weighted.ipynb)
 Measures adaptation across stage transitions without repeating outdated strategies.
 
 ### 4. Robustness

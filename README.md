@@ -12,7 +12,7 @@ This project is a benchmark designed to evaluate the cognitive abilities of larg
 
 Below is a snapshot of benchmark results across different models and tasks:
 
-![Leaderboard](./leaderboard.png)
+![Leaderboard](./benchmark_leaderboard.png)
 
 ---
 
